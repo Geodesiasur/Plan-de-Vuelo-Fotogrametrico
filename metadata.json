@@ -1,0 +1,8 @@
+{
+  "name": "Remix Plan de Vuelo para Fotogrametria PLAVUF",
+  "description": "Planificador profesional de misiones y vuelos fotogramétricos para drones DJI sin SDK liberado (Mini 2, Mini 3/4 Pro, Air 2S/3, Mavic 3). Cálculo de GSD, traslapes, elevación AGL y exportación a KMZ, WPML y Litchi CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
